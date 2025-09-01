@@ -19,10 +19,7 @@ A pasta **`Notebooks/`** contém os notebooks principais utilizados para a anál
 
 A pasta **`src/`** contém notebooks auxiliares e arquivos de suporte organizados por contribuidor:
 
-- `g_duarte/` - Notebooks auxiliares focados na análise de temperatura
-- `r_amaral/` - Notebooks auxiliares para diversas análises (temperatura, desemprego, feriados, CPI, combustível)
-- `g_guimaraes/`, `g_leal/`, `g_oliveira/` - Outros arquivos auxiliares
-- `Outros/` - Notebooks auxiliares adicionais
+
 
 ### 🗃️ Conjuntos de Dados
 
