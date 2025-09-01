@@ -1,16 +1,5 @@
 # Projeto Aplicado 2 - Grupo 19
 
- |
- | ¯¯XXxx
- |   XXXXx¯––__
- |   XXXXX     XXxx.
- | ¯¯XXXXX_    XXXXX ¯¯\
- |         ¯¯––XXxxX    \
- |                 ¯¯\===\
- |                    \===\
- |                     \===
- |
-
 Estamos criando aqui a Biruta, empresa especializada na compilação de dados macroecomonicos em formato texto e apresentálos de forma que facilite a tomada de decisões
 
 ## Estrutura do Repositório
