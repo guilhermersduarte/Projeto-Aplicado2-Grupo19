@@ -1,6 +1,6 @@
 # Projeto Aplicado 2 - Grupo 19
 
-Estamos criando aqui a Biruta, empresa especializada na compilação de dados macroecomonicos em formato texto e apresentálos de forma que facilite a tomada de decisões
+Estamos criando aqui a Biruta, empresa especializada na compilação de dados macroecomonicos em formato texto e apresentá-los de forma simples que facilite a tomada de decisões.
 
 ## Estrutura do Repositório
 
