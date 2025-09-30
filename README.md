@@ -11,7 +11,7 @@ O repositório está organizado da seguinte forma:
 A pasta **`Notebooks/`** contém os notebooks principais utilizados para a análise de dados, organizados por tipo de análise:
 
 - **Análise Exploratória Geral**:
-  - `analise_exploratoria.ipynb` - Análise exploratória inicial dos dados
+  - `analise_exploratoria_ata.ipynb.ipynb` - Análise exploratória inicial dos dados de atas e comunicados
 
 
 
