@@ -17,7 +17,7 @@ A pasta **`Notebooks/`** contém os notebooks principais utilizados para a anál
 
 ### 📁 Notebooks Auxiliares
 
-A pasta **`src/`** contém notebooks auxiliares e arquivos de suporte organizados por contribuidor:
+A pasta **`Notebook/archive/`** contém notebooks auxiliares e arquivos de suporte.
 
 
 
