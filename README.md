@@ -14,7 +14,7 @@ A pasta **`Notebooks/`** contém os notebooks principais utilizados para a anál
   - `analise_exploratoria_ata.ipynb` - Análise exploratória inicial dos dados de atas e comunicados
   - `tf_ata_6m_gru_0601.ipynb`'      - Treinamento GRU 60%
   - `tf_ata_6m_gru_0801.ipynb`'      - Treinamento GRU 80%
-  - `tf_ata_sent_6m_ltsm.ipynb`'     - Treinamento LTSM
+  - `tf_ata_sent_6m_ltsm.ipynb`'     - Treinamento LSTM
 
 ### 📁 Notebooks Auxiliares
 
